@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"emperror.dev/emperror"
-	"github.com/rome314/3-commas-ws-forwarder/cmd/config"
 	"github.com/rome314/3-commas-ws-forwarder/internal/api"
+	"github.com/rome314/3-commas-ws-forwarder/internal/config"
 	"github.com/rome314/3-commas-ws-forwarder/internal/sender"
 	"github.com/rome314/3-commas-ws-forwarder/pkg/connections"
 	"github.com/rome314/3-commas-ws-forwarder/pkg/logging"
